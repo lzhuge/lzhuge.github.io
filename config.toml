@@ -105,17 +105,17 @@ enableEmoji = true
   [[menu.header]]
     name = "About"
     title = "About"
-    url = "/about"
+    url = "/about/"
     weight = 1
   [[menu.header]]
     name = "Research"
     title = "Research"
-    url = "/collection"
+    url = "/collection/"
     weight = 2
   [[menu.header]]
     name = "Contact"
     title = "Contact form"
-    url = "/form"
+    url = "/form/"
     weight = 3
     
   # Configure footer  
