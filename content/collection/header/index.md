@@ -27,8 +27,8 @@ headline: |
 </div>
 
 <div> 
-<a href="https://nbviewer.org/github/lzhuge/lzhuge.github.io/blob/main/papers/hukou.pdf" style="color:#154360;" target="_blank">Legal Status, Gendered Preferences, and Intra-household Allocations: Evidence from a Restrictive Household Registration System</a>
-<br> <p style="line-height:120%; font-size: 15px"> <b>R&R</b>
+<a href="https://nbviewer.org/github/lzhuge/lzhuge.github.io/blob/main/papers/hukou.pdf" style="color:#154360;" target="_blank">Legal Status, Gendered Preferences, and Intra-household Allocations: Evidence from a Restrictive Household Registration System</a> <b>R&R</b>
+<br> <p style="line-height:120%; font-size: 15px"> 
 <b>Abstract:</b> This paper studies how legal statuses and gendered preferences impact intra-household allocations, focusing on China’s household registration system known as <i>hukou</i>. The <i>hukou</i> system determines access to public services and reflects the strength of local social networks. A person’s <i>hukou</i> status can often be changed through marriage. This unique context allows us to explore how external policies and societal factors influence household decisions. Using a collective model and data on household consumption and spouses’ <i>hukou</i> statuses, we find that <i>hukou</i> status plays a crucial role in determining within-family bargaining power. Wives with more advantageous <i>hukou</i> statuses, sometimes transferable to their husbands, wield significantly greater bargaining power compared to others but still less than their husbands. We identify substantial differences in preferences between husbands and wives, especially regarding goods associated with gender roles, such as alcohol, tobacco, and clothing.</p>
 </div>
 
