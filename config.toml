@@ -105,17 +105,17 @@ enableEmoji = true
   [[menu.header]]
     name = "About"
     title = "About Blogophonic"
-    url = "/About/"
+    url = "/info/"
     weight = 1
   [[menu.header]]
     name = "Research"
     title = "Research"
-    url = "/Collection/"
+    url = "/collection/"
     weight = 3
   [[menu.header]]
     name = "Contact"
     title = "Contact form"
-    url = "/Form/"
+    url = "/contact/"
     weight = 4
     
   # Configure footer  
