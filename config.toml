@@ -102,16 +102,16 @@ enableEmoji = true
 
 [menu]
   # Configure header 
-  [[menu.header]]
+  # [[menu.header]]
     name = "About"
     title = "About Blogophonic"
     url = "/info/"
     weight = 1
-  [[menu.header]]
-    name = "Research"
-    title = "Research"
-    url = "/collection/"
-    weight = 2
+  # [[menu.header]]
+  #   name = "Research"
+  #   title = "Research"
+  #   url = "/collection/"
+  #   weight = 2
   [[menu.header]]
     name = "Contact"
     title = "Contact form"
@@ -119,11 +119,11 @@ enableEmoji = true
     weight = 3
     
   # Configure footer  
-  [[menu.footer]]
-    name = "License"
-    title = "License"
-    url = "/license/"
-    weight = 1
+  # [[menu.footer]]
+  #   name = "License"
+  #   title = "License"
+  #   url = "/license/"
+  #   weight = 1
 
 
 # see https://gohugo.io/about/hugo-and-gdpr/    
