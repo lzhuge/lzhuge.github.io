@@ -31,6 +31,15 @@ headline: |
 <br> <p style="line-height:120%; font-size: 15px"> <b>Abstract:</b> I propose a refined Chiappori-style collective model to explore how degenderization influences labor allocation within same-sex couples. This study addresses the shortcomings of Becker and Gronau’s time allocation theory, which inadequately explains labor behaviors solely through comparative advantages.</p>
 </div>
 
+<div style="line-height:100%;">
+    <br>
+</div>
+
+<div> 
+<a href="https://nbviewer.org/github/lzhuge/lzhuge.github.io/blob/main/papers/go_green.pdf" style="color:#154360;" target="_blank">Does International Trade Drive Manufacturers to Go Green? Firm-level Evidence from China</a>
+<br> <p style="line-height:120%; font-size: 15px"> <b>Abstract:</b> This paper delves into the question of whether trading with developed countries that have higher en- vironmental standards and customers with higher environmental awareness exerts spillover effects on firms’ environmental performances in China.</p>
+</div>
+
 <div style="line-height:150%;">
     <br>
 </div>
