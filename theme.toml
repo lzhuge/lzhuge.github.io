@@ -9,8 +9,8 @@ min_version = "0.79.0"
 
 # If the theme has a single author
 [author]
-    name = "Alison Hill"
-    homepage = "https://alison.rbind.io"
+    name = "Liqun Zhuge"
+    homepage = "https://lzhuge.github.io"
 
 # If porting an existing theme
 [original]
