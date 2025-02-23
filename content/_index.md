@@ -9,7 +9,7 @@ text_align_left: false
 show_social_links: true # specify social accounts in site config
 show_action_link: true
 action_link: "https://nbviewer.org/github/lzhuge/lzhuge.github.io/blob/main/CV.pdf"
-action_label: "More &rarr;"
+action_label: "CV &rarr;"
 action_type: text # text, button
 type: home
 ---
