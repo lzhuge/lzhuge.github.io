@@ -14,7 +14,7 @@ cascade:
   sidebar:
     title: "Short Research Statement"
     description: 
-      <big>I am a labor economist who focuses on inequality and discrimination. My primary research explores the source of inequality at the household level, particularly the barriers presented by policies, social norms, and cultures. I employ various methodologies in my research, including applied theory and structural and reduced-form estimation.</big>
+      <big>I am a labor and development economist who focuses on inequality, discrimination and environmental protection. My primary research explores the source of inequality at the household level, particularly the barriers presented by policies, social norms, and cultures. I employ various methodologies in my research, including applied theory and structural and reduced-form estimation.</big>
     show_author_byline: true
     show_post_date: false
     text_link_label: ""
