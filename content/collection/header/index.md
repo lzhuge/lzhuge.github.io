@@ -27,8 +27,8 @@ headline: |
 </div>
 
 <div> 
-<a href="https://nbviewer.org/github/lzhuge/lzhuge.github.io/blob/main/papers/degender.pdf" style="color:#154360;" target="_blank">Degenderization and Collective Labor Supply in Same-sex Couples</a>
-<br> <p style="line-height:120%; font-size: 15px"> <b>Abstract:</b> I propose a refined Chiappori-style collective model to explore how degenderization influences labor allocation within same-sex couples. This study addresses the shortcomings of Becker and Gronau’s time allocation theory, which inadequately explains labor behaviors solely through comparative advantages.</p>
+<a href="https://nbviewer.org/github/lzhuge/lzhuge.github.io/blob/main/papers/degender.pdf" style="color:#154360;" target="_blank">Degenderization and Collective Labor Supply</a>
+<br> <p style="line-height:120%; font-size: 15px"> <b>Abstract:</b> I propose a refined Chiappori-style collective model to explore how degenderization influences labor allocation. This study addresses the shortcomings of Becker and Gronau’s time allocation theory, which inadequately explains labor behaviors solely through comparative advantages.</p>
 </div>
 
 <div style="line-height:100%;">
@@ -47,8 +47,8 @@ headline: |
 <big><big><b>Work in Progress</b></big></big>
 
 <div> 
-The burden of crime victimisation among the LGBTQ+ population in New Zealand
-<br> <p style="line-height:120%; font-size: 15px"> <b>Abstract:</b>This paper examines how crime victimization among LGBTQ+ individuals differs from that experienced by non-LGBTQ+ counterparts in New Zealand</p>
+The burden of crime victimisation in New Zealand
+<br> <p style="line-height:120%; font-size: 15px"> <b>Abstract:</b>This paper examines how crime victimization among minorities differs from that experienced by their counterparts in New Zealand</p>
 </div>
 
 <div style="line-height:200%;">
