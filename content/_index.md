@@ -1,7 +1,7 @@
 ---
 title: "Liqun \"Lee\" Zhuge"
 subtitle: "New Zealand Policy Research Institute"
-description: "I am a Research Fellow at the `New Zealand Policy Research Institute` (NZPRI, AUT). I earned my Ph.D. in Economics from `Boston University`. My field is labor and development economics, with a primary focus on inequality and discrimination, particularly in the context of women's and minorities' rights. My research examines how social norms, cultural dynamics, and policy landscapes shape intrahousehold bargaining and labor supply choices. My proficiencies encompass the skillful handling of micro-level household and personal data, adept application of quantitative econometric methodologies, and versatile programming proficiency across multiple languages and computing paradigms."
+description: "I am a Research Fellow at the `New Zealand Policy Research Institute` (NZPRI, AUT). I earned my Ph.D. in Economics from `Boston University`, specializing in labor and development economics and corporate finance. My research explores how social norms, cultural dynamics, and policy environments influence intrahousehold bargaining and labor supply decisions, as well as corporate innovation and environmental performance. I have extensive experience working with micro-level data on households, individuals, and firms. I excel in advanced econometric techniques and programming across multiple languages and computing platforms."
 images:
   - img/headshoot.png
 image_left: true
