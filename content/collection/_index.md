@@ -14,7 +14,7 @@ cascade:
   sidebar:
     title: "Short Research Statement"
     description: 
-      <big>I am a labor and development economist who focuses on inequality, discrimination and environmental protection. My primary research explores the source of inequality at the household level, particularly the barriers presented by policies, social norms, and cultures. I employ various methodologies in my research, including applied theory and structural and reduced-form estimation.</big>
+      <big>I am an applied economist who focuses on labor economics, development economics, environmental economics, and corporate finance. I investigate how social norms and public policies influence individual behavior, corporate environmental performance and innovation, as well as how environmental change affects individual welfare.</big>
     show_author_byline: true
     show_post_date: false
     text_link_label: ""

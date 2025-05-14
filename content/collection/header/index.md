@@ -18,15 +18,6 @@ headline: |
 </div>
 
 <div> 
-<a href="https://nbviewer.org/github/lzhuge/lzhuge.github.io/blob/main/papers/hukou.pdf" style="color:#154360;" target="_blank">Legal Status, Gendered Preferences, and Intra-household Allocations: Evidence from a Restrictive Household Registration System</a> <b>at R&R</b>
-<br> <p style="line-height:120%; font-size: 15px"> <b>Abstract:</b> This paper studies how legal statuses and gendered preferences impact intra-household allocations, focusing on China’s household registration system known as <i>hukou</i>.</p>
-</div>
-
-<div style="line-height:100%;">
-    <br>
-</div>
-
-<div> 
 <a href="https://nbviewer.org/github/lzhuge/lzhuge.github.io/blob/main/papers/degender.pdf" style="color:#154360;" target="_blank">Degenderization and Collective Labor Supply</a>
 <br> <p style="line-height:120%; font-size: 15px"> <b>Abstract:</b> I propose a refined Chiappori-style collective model to explore how degenderization influences labor allocation. This study addresses the shortcomings of Becker and Gronau’s time allocation theory, which inadequately explains labor behaviors solely through comparative advantages.</p>
 </div>
@@ -55,7 +46,15 @@ The burden of crime victimisation in New Zealand
     <br>
 </div>
 
-<big><big><b>Corporate Finance Publications</b></big></big>
+<big><big><b>Publications</b></big></big>
+
+<div> 
+"Legal Status, Gendered Preferences, and Intra-household Allocations: Evidence from a Restrictive Household Registration System,” Rev Econ Household (2025) (with <i>Kevin Lang</i>)<a href="https://link.springer.com/article/10.1007/s11150-025-09770-9" style="color:#154360;" target="_blank">[Link]</a>
+</div>
+
+<div style="line-height:100%;">
+    <br>
+</div>
 
 <div> 
 "Firm Dynamics of Hi-Tech Start-ups: Does Innovation Matter?,” China Economic Review (2020): 101370 (with <i>Richard B. Freeman</i> and <i>Dongyang Zhang</i>)<a href="https://www.sciencedirect.com/science/article/abs/pii/S1043951X19301312" style="color:#154360;" target="_blank">[Link]</a>
